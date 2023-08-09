@@ -43,10 +43,12 @@
 
 ### PROJETS RÉCENTS
 
-   * [Expérience flora](https://experienceflora.ca/)
-    
+*  [Expérience flora](https://experienceflora.ca/)
+*  [eudicots](https://eudicots.com/)
 
-   * [eudicots](https://eudicots.com/)
+    - Boutique en ligne Shopify
+    - Connexion de domaine
+    - Gestion de courriel personalisé 
     
     
 ### PROJETS DE DÉVELOPPEMENT PROFESSIONNEL
