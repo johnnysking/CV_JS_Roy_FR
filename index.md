@@ -44,20 +44,10 @@
 ### PROJETS RÉCENTS
 
    * [Expérience flora](https://experienceflora.ca/)
-    - Personal web site that gets updated whenever I enter or leave the studio
-    - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
-    - Web3.py to interact with Optimism
-    - Ethers.js to fetch blockchain state
-    - Solidity Smart Contract
-    - Github actions
+    
 
-    * [eudicots](https://eudicots.com/)
-    - Personal web site that gets updated whenever I enter or leave the studio
-    - HTML, CSS, Javascript that fetches environmental data from Raspberry Pi
-    - Web3.py to interact with Optimism
-    - Ethers.js to fetch blockchain state
-    - Solidity Smart Contract
-    - Github actions
+   * [eudicots](https://eudicots.com/)
+    
     
 ### PROJETS DE DÉVELOPPEMENT PROFESSIONNEL
     
