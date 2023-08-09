@@ -8,7 +8,7 @@
 *      To be released -->
 
 ### Profil  
-- Nouvellement diplômé du collège Multihexa en programmation d'applications web et mobiles.
+- Diplômé 2023 du collège Multihexa en programmation d'applications web et mobiles.
 - Auparavant chef cuisinier et jardinier maraîcher en système permaculturel. 
 - Bonne gestion organisationnelle.
 - Avide d'apprentissage et de nouvelles connaissances.
