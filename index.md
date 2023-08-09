@@ -1,11 +1,11 @@
-## Développeur web, artiste, Chef, Permaculteur
+<!-- ## Développeur web, artiste, Chef, Permaculteur -->
   
 ### Github: [johnnysking](https://github.com/johnnysking)
 ### Linkedin: [Jean-Sébastien Roy](https://linkedin.com/in/jean-sébastien-roy)
 ### Email: [arkalomeco@hotmail.com](mailto:arkalomeco@hotmail.com)
-### Portfolio: [auxpoints.com](https://auxpoints.com)
+<!-- ### Portfolio: [auxpoints.com](https://auxpoints.com)
 ### English Version: 
-*      To be released
+*      To be released -->
 
 ### Profil  
 - Nouvellement diplômé du collège Multihexa en programmation d'applications web et mobiles.
@@ -21,13 +21,11 @@
 ### Compétences
 
 - HTML, CSS & JavaScript 
-- PHP
-- JQuery 
+- PHP 
 - C#
 - Visual Basic
 - Kotlin
 - Ionic
-- Typescript
 - SQL
 - React
 - Vue
