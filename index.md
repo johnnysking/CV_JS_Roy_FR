@@ -41,7 +41,11 @@
 - SSMS
 - PHPmyAdmin
 
- 
+### PROJETS RÉCENTS
+
+   - www.experienceflora.ca
+   - www.eudicots.com
+    
 ### PROJETS DE DÉVELOPPEMENT PROFESSIONNEL
     
   <b>Projet de fin d'études</b>
@@ -63,7 +67,7 @@
     - Inscription, Lecture, Modification de données depuis un fichier .txt
     - Application console.
 
-    - <b>Environnement :</b> Visual Studio Code, Python
+    - <b>Environnement :</b> Python
   
   <b>Développement Android</b>
 
@@ -93,7 +97,7 @@ SqlDataAdapter, TableAdapter, DataSet
     - Gestion de panier; Gestion de session et de comptes utilisateur.
     - Barre de navigation
 
-    - <b>Environnement :</b> Visual Studio Code, HTML, CSS, JavaScript, PHP
+    - <b>Environnement :</b> HTML, CSS, JavaScript, PHP
   
 ### Éducation
 - <b>AEC Programmation d'applications Web et Mobile</b>  
