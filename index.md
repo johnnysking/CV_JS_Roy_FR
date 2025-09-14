@@ -43,8 +43,11 @@
 
 ### PROJETS RÉCENTS
 
+*  [Portfolio Suzanne saindons artiste peintre](https://saindons.ca/)
+*  [Portfolio Diane Ruest artiste textile](https://dianeruest.ca/)
+
+*  [Centre d'art Argenteuil](https://cdada.ca/)
 *  [Expérience flora](https://experienceflora.ca/)
-*  [eudicots](https://eudicots.com/)
 
     - Boutique en ligne Shopify
     - Connexion de domaine
