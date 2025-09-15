@@ -25,10 +25,22 @@ des solutions performantes et sécurisées pour des sites d’envergure.
 ### PROJETS RÉCENTS
 
 *  [Portfolio Suzanne saindons artiste peintre](https://saindons.art/)
+    - réation d’un site vitrine dynamique pour présenter les œuvres de l’artiste.
+    - Technologies : HTML, CSS, JavaScript.
+    - Gestion des contenus, optimisation SEO et mise en ligne.
+    
 *  [Portfolio Diane Ruest artiste textile](https://dianeruest.ca/)
-    - Création de sites vitrines dynamiques avec HTML, CSS, JavaScript
+    - Développement d’un site interactif pour présenter les créations textiles.
+    - Technologies : HTML, CSS, JavaScript.
+    - Intégration d’éléments visuels et mise en place d’une navigation intuitive.
 
-*  [Centre d'art Argenteuil](https://cdada.ca/)
+*  [Centre d'art Argenteuil– Développeur Web / Webmestre](https://cdada.ca/)
+
+    - Conception et développement complet du site web transactionel.
+    - Mise en ligne de nouvelles expositions et projets artistiques.
+    - Optimisation SEO et création de contenus numériques pour le site.
+    - Maintenance continue et amélioration des fonctionnalités existantes.
+
 *  [Expérience flora]<!--(https://experienceflora.ca/)-->
 
     - Boutique en ligne Shopify
