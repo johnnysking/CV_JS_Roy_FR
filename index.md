@@ -8,10 +8,10 @@
 *      To be released -->
 
 ### Profil  
-Développeur full-stack bilingue, passionné par le front-end et les nouvelles technologies,
-diplômé en programmation web et mobile. Expérience en projets web transactionnels et e-commerce
-avec PHP, JavaScript, CSS et gestion de version Git. Curieux et méthodique, je cherche à créer
-des solutions performantes et sécurisées pour des sites d’envergure.
+Développeur full-stack bilingue, passionné par le front-end et les nouvelles technologies,  
+diplômé en programmation web et mobile. Expérience en projets web transactionnels et e-commerce  
+avec PHP, JavaScript, CSS et gestion de version Git. Curieux et méthodique, je cherche à créer  
+des solutions performantes et sécurisées pour des sites d’envergure.  
 
 
 ### Compétences techniques
