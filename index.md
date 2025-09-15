@@ -3,7 +3,8 @@
 ### Github: [johnnysking](https://github.com/johnnysking)
 ### Linkedin: [Jean-Sébastien Roy](https://linkedin.com/in/jean-sébastien-roy)
 ### Email: [arkalomeco@hotmail.com](mailto:arkalomeco@hotmail.com)
-<!-- ### Portfolio: [auxpoints.com](https://auxpoints.com)
+### Téléchargez mon CV (PDF): [CV Jean-Sébastien Roy](assets/CV/Jean-Sebastien-Roy-CV.pdf)
+<!-- ### Portfolio: 
 ### English Version: 
 *      To be released -->
 
