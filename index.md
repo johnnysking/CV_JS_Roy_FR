@@ -109,8 +109,16 @@ SqlDataAdapter, TableAdapter, DataSet
   
 ### Expériences de travail précédantes
 
+- <b>Travailleur autonome | Depuis la fin de l’AEC</b>  
+     Réalisation de projets web et autres missions indépendantes  
+     selon les besoins des clients.
+
+- <b>Webmestre | Centre d’Art d’Argenteuil</b>  
+     Gestion et maintenance du site web, création de contenus numériques,  
+     optimisation SEO et mise en ligne de projets artistiques.
+
 - <b>Chef cuisinier | CPE puce à l'oreille | 2014-2022</b>  
-     St-André d'Argenteuil, Québec, Canad
+     St-André d'Argenteuil, Québec, Canada
 
 - <b>Jardinier/Horticulteur | Cambium | 2013</b>  
      Fuschia cottage, Ballinspittle, Irlande
