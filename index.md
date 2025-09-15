@@ -3,56 +3,37 @@
 ### Github: [johnnysking](https://github.com/johnnysking)
 ### Linkedin: [Jean-Sébastien Roy](https://linkedin.com/in/jean-sébastien-roy)
 ### Email: [arkalomeco@hotmail.com](mailto:arkalomeco@hotmail.com)
-### Téléchargez mon CV (PDF): [CV Jean-Sébastien Roy](downloads/CV/Jean-Sebastien-Roy-CV.pdf)
 <!-- ### Portfolio: 
 ### English Version: 
 *      To be released -->
 
 ### Profil  
-- Diplômé 2023 du collège Multihexa en programmation d'applications web et mobiles.
-- Auparavant chef cuisinier et jardinier maraîcher en système permaculturel. 
-- Bonne gestion organisationnelle.
-- Avide d'apprentissage et de nouvelles connaissances.
-- Coopère efficacement en équipe.
-- Bilingue 
-     * Francais
-     * Anglais
+Développeur full-stack bilingue, passionné par le front-end et les nouvelles technologies,
+diplômé en programmation web et mobile. Expérience en projets web transactionnels et e-commerce
+avec PHP, JavaScript, CSS et gestion de version Git. Curieux et méthodique, je cherche à créer
+des solutions performantes et sécurisées pour des sites d’envergure.
 
 
-### Compétences
+### Compétences techniques
 
-- HTML, CSS & JavaScript 
-- PHP 
-- C#
-- Visual Basic
-- Kotlin
-- Ionic
-- SQL
-- React
-- Vue
-- Svelte
-- Python
-- Bootstrap
+- Frontend : HTML5 sémantique, CSS3, Bootstrap, JavaScript, React, Vue, Svelte 
+- Backend : PHP, Python, C# 
+- Bases de données : MySQL, SQL
+- Outils & environnements : Git, Visual Studio, VS Code, Android Studio, PHPmyAdmin
 
-### IDE
-
-- Visual Studio
-- Visual Studio Code
-- Android Studio
-- SSMS
-- PHPmyAdmin
 
 ### PROJETS RÉCENTS
 
-*  [Portfolio Suzanne saindons artiste peintre](https://saindons.ca/)
+*  [Portfolio Suzanne saindons artiste peintre](https://saindons.art/)
 *  [Portfolio Diane Ruest artiste textile](https://dianeruest.ca/)
+    - Création de sites vitrines dynamiques avec HTML, CSS, JavaScript
 
 *  [Centre d'art Argenteuil](https://cdada.ca/)
-*  [Expérience flora](https://experienceflora.ca/)
+*  [Expérience flora]<!--(https://experienceflora.ca/)-->
 
     - Boutique en ligne Shopify
     - Connexion de domaine
-    - Gestion de courriel personalisé 
+    - Gestion de comptes utilisateurs
     
     
 ### PROJETS DE DÉVELOPPEMENT PROFESSIONNEL
